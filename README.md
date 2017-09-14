@@ -1,0 +1,2 @@
+# InterwinedMA
+Practical Stock Theory
